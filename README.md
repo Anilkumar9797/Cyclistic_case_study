@@ -31,6 +31,10 @@ Cyclistic, a bike-share company in Chicago, aims to convert casual riders into a
 ## 📊 Dashboard Preview
 ![Dashboard Screenshot](dashboard/Rider_insights.png)
 > 📷 images available in `/dashboard` folder
+> ## 🔗 Tableau Public Dashboard
+Explore the full interactive dashboard here:  
+👉 [View on Tableau Public](https://public.tableau.com/app/profile/anil.kumar.bakkashetti/viz/Cyclistic_case_study_17568432556060/UnlockingRiderInsightsPathtoMembershipGrowth)
+
 
 ## 🛠️ Tools Used
 - **R**: Data cleaning, feature engineering, segmentation
@@ -38,12 +42,11 @@ Cyclistic, a bike-share company in Chicago, aims to convert casual riders into a
 - **Excel**: Pivot validation and summary analysis
 
 ## 📁 Repository Structure
-dashboard → uploaded dashboard from Tableau
-
+dashboard → uploaded dashboard from Tableau   
 output → Contains the cleaned CSV file used for Tableau dashboarding and analysis  
 README.md → Project overview, insights, and strategy recommendations  
 cyclistic_cleaning_analysis.R → uploaded R script 
 
-# Summary
+## Summary
 This project demonstrates end-to-end data analysis using R and Tableau. It includes data wrangling, feature engineering, segmentation, and strategic recommendations to support membership growth for Cyclistic, a bike-share company in Chicago. The case study highlights how data-driven insights can inform marketing strategies and improve user engagement.
 
