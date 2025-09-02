@@ -28,7 +28,7 @@ Cyclistic, a bike-share company in Chicago, aims to convert casual riders into a
 - [Monthly Ride Trends](#)  
 - [Bike Type Split](#)
 
-> 📷 Screenshots available in `/figures` folder
+> 📷 images available in `/Dashboard` folder
 
 ## 🛠️ Tools Used
 - **R**: Data cleaning, feature engineering, segmentation
