@@ -37,7 +37,7 @@ Cyclistic, a bike-share company in Chicago, aims to convert casual riders into a
 
 ## 📁 Repository Structure
 dashboard → uploaded dashboard from Tableau
-outputs → Contains the cleaned CSV file used for Tableau dashboarding and analysis  
+output → Contains the cleaned CSV file used for Tableau dashboarding and analysis  
 README.md → Project overview, insights, and strategy recommendations  
 cyclistic_cleaning_analysis.R → uploaded R script 
 
