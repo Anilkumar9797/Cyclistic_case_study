@@ -49,4 +49,7 @@ cyclistic_cleaning_analysis.R → uploaded R script
 
 ## Summary
 This project demonstrates end-to-end data analysis using R and Tableau. It includes data wrangling, feature engineering, segmentation, and strategic recommendations to support membership growth for Cyclistic, a bike-share company in Chicago. The case study highlights how data-driven insights can inform marketing strategies and improve user engagement.
+## 📖 Read the Full Case Study on Medium  
+👉 [Unlocking Rider Insights on Medium](https://medium.com/@Anilkumarbakkashetti/unlocking-rider-insights-how-cyclistic-can-convert-casual-riders-into-members-fae32957512e)
+
 
